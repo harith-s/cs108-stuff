@@ -1,0 +1,13 @@
+*{
+    background-color: rgb(240, 255, 255);
+    text-align: center;
+}
+
+th{
+    padding-right: 100px;
+    padding-left:100px;
+}
+li{
+    text-align: center;
+    list-style-position: inside;
+}

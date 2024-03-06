@@ -1,0 +1,1 @@
+grep -iE "^[a-z]+[0-9]{2} [1-4] 22b[0-9]{4}@iitb\\.ac\\.in submission.sh$" collect.txt > output.txt

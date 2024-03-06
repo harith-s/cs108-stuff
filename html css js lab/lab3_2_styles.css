@@ -1,0 +1,52 @@
+* { 
+    margin: 0; 
+    padding:0;
+   } 
+header{
+    color: white;
+    margin:0
+}
+h1{
+    text-align: center;
+    background-color: #343333;
+    margin: 0;
+    font-size: 50px;
+    padding:10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif\;
+}
+nav{
+    margin:0;
+    background-color: rgb(81, 81, 81);
+
+}
+.navlink{
+    color: white;
+    text-decoration: none;
+}
+ul{
+    list-style-type:none;
+}
+li{
+    display: inline;
+    margin-left: 0px;
+
+    
+}
+.text{
+    margin: 10px;
+    margin-right: auto;
+    margin-left: 400px;
+}
+
+#bad_jokes{
+    text-align: center;
+    background-color: #343333;
+    font-size: 15px;
+    color: white;
+    position: fixed;
+    bottom :0;
+    width: 100%;
+    height: 20px; 
+    padding: 10px;
+}
+

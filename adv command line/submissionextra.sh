@@ -1,0 +1,1 @@
+grep -v '^ *$' $(find ./input -name '*.txt')| wc -l > output.txt
